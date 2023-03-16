@@ -1,10 +1,10 @@
 # HW 5
 
 ## Author
----
+
 Cem
 ## Solution
----
+
 BadgerCoin token deployed to BNB Testnet at:
 `0x14C0759cfF3691E3Bb26E480e4deB30784a899e7`
 
